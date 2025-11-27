@@ -6,7 +6,7 @@
   "dependencies": {
     "react": "16",
     "react-dom": "16",
-    "react-scripts": "3.2"
+    "react-scripts": "5.0"
   },
   "scripts": {
     "start": "react-scripts -r @cypress/instrument-cra start",
